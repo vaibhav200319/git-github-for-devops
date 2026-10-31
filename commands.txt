@@ -3,3 +3,6 @@ git status
 git add .
 git commit -m
 git retore
+
+git init part 2nd 
+more text
